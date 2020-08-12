@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @version 07/29/2020
  *
  */
-public class Project3 {
+public class Driver {
 	public static Scanner userInput = new Scanner(System.in);// for input from user
 	public static int countCountries;
 	private static final HashTable_via_DoubleEnded_SinglyLinkedList hTable = new HashTable_via_DoubleEnded_SinglyLinkedList();
