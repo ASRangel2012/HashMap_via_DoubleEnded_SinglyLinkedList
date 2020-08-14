@@ -1,6 +1,6 @@
 # HashHap via DoubleEnded SinglyLinked Lists Implementation
 
-Advanced implementation of Java Hash Tables with  double-ended singly linked lists. Features Separate Chaining to handle collisions.
+Advanced Java Hash Tables implementation with separate chaining to handle collisions.
  - two nested classes:
     - private class Node  
     - public class DoubleEndedSinglyLinkedList.
